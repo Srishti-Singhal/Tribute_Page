@@ -1,0 +1,143 @@
+Add in HTML code:-
+
+<script src="https://cdn.freecodecamp.org/testable-projects fcc/v1/bundle.js">
+</script>
+
+JS code:-
+
+function count()
+{
+  var c=0;
+  if(document.getElementById("name").value!='')
+  { 
+  c=c+1;
+  }
+  if(document.getElementById("email").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("number").value!='')
+  { 
+  c=c+1;
+  }
+   if(document.getElementById("age").value!='')
+  { 
+  c=c+1;
+  }
+  
+      if(document.getElementById("aaaa").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("bbbb").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("cccc").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("dddd").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("eeee").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("ffff").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("gggg").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("hhhh").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("iiii").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("jjjj").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("kkkk").value!='')
+  { 
+  c=c+1;
+  }  
+  
+  if(document.getElementById("llll").value!='')
+  { 
+  c=c+1;
+  }
+    if(document.getElementById("mmmm").value!='')
+  { 
+  c=c+1;
+  }  
+  
+ if(document.getElementById("nnnn").value!='')
+  { 
+  c=c+1;
+  }   
+  
+  if(document.getElementById("oooo").value!='')
+  { 
+  c=c+1;
+  }  
+  
+ if(document.getElementById("pppp").value!='')
+  { 
+  c=c+1;
+  } 
+  
+  if(document.getElementById("qqqq").checked)
+  { 
+  c=c+1;
+  }  
+  
+ if(document.getElementById("rrrr").checked)
+  { 
+  c=c+1;
+  } 
+  
+  if(document.getElementById("ssss").checked)
+  { 
+  c=c+1;
+  }  
+  
+ if(document.getElementById("tttt").checked)
+  { 
+  c=c+1;
+  }   
+  
+  if(document.getElementById("uuuu").checked)
+  { 
+  c=c+1;
+  }  
+  
+  if(document.getElementById("vvvv").checked)
+  { 
+  c=c+1;
+  } 
+  
+  if(document.getElementById("wwww").checked)
+  { 
+  c=c+1;
+  }  
+  
+  if(document.getElementById("xxxx").checked)
+  { 
+  c=c+1;
+  }  
+  
+  if(document.getElementById("comment").value!='')
+  { 
+  c=c+1;
+  }  
+  
+  alert(c);
+}
